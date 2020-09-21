@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "category_name":"Ramayanam",
+        "author":"Vigneshwar",
+        "image":"https://avstechs.in/kalanjiyam/images/category/ramayanam/ramayanam.jpg"
+
+},
+{
+    "id":2,
+    "category_name":"Mahabharat",
+    "author":"Ramesh",
+    "image":"https://avstechs.in/kalanjiyam/images/category/mahabharat/mahabharat.jpg"
+
+}
+
+]

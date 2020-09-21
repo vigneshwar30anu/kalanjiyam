@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "song_name":"Andha Kanna Paathaakaa",
+        "author":"Karki",
+        "song_url":"https://avstechs.in/kalanjiyam/songs/Andha Kanna Paathaakaa.mp3",
+        "published_on":"02:01:2020",
+        "image":"https://avstechs.in/kalanjiyam/images/master1.jpeg",
+        "short_description":"Short Description about this song.",
+        "category_id":1
+    },
+    {
+        "id":2,
+        "song_name":"Vaathi Coming",
+        "author":"Kamraj",
+        "song_url":"https://avstechs.in/kalanjiyam/songs/Vaathi Coming.mp3",
+        "published_on":"25:07:2020",
+        "image":"https://avstechs.in/kalanjiyam/images/master2.jpg",
+        "short_description":"Short Description about this song.",
+        "category_id":1
+    }
+
+]
